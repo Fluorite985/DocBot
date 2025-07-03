@@ -9,7 +9,7 @@ from langchain_chroma import Chroma
 
 
 
-DATA_PATH =r"C:\Users\prana\Desktop\AIBOT2\dataprep"
+DATA_PATH ="dataprep"
 CHROMA_PATH = "chroma"
 
 
