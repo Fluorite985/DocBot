@@ -9,7 +9,7 @@ from langchain_chroma import Chroma
 
 
 
-DATA_PATH ="dataprep"
+DATA_PATH ="data"
 CHROMA_PATH = "chroma"
 
 
