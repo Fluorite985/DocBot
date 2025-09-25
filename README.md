@@ -48,7 +48,7 @@ pip install -r requirements.txt
 
 Ensure Ollama is running:
 ```bash
-ollama run mistral
+ollama run llama3.2
 ```
 
 ---
